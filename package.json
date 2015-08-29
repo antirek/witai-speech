@@ -1,0 +1,26 @@
+{
+  "name": "witai-speech",
+  "version": "0.0.1",
+  "description": "Wit.ai speech recognition",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "node-wit": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/witai-speech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/witai-speech/issues"
+  },
+  "homepage": "https://github.com/antirek/witai-speech"
+}
