@@ -1,6 +1,6 @@
 
-var WitaiASR = require('./lib/witaiASR');
+const WitaiASR = require('./lib/witaiASR');
 
 module.exports = {
-    ASR: WitaiASR,
-}
+  ASR: WitaiASR,
+};
